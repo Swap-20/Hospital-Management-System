@@ -2,6 +2,7 @@
 #include <fstream>
 #include <sstream>
 #include <windows.h>
+#include <vector>
 using namespace std;
 
 class Hospital{
