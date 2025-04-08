@@ -12,11 +12,10 @@ This project is great for demonstrating basic knowledge of Object-Oriented Progr
 - Billing System
 - Search Patient or Doctor Records
 - Edit or Delete Existing Records
-- File Handling for Data Storage (No external database required)
-- Menu-driven Console Interface
+- File Handling for Data Storage (Reason : No external database required)
 
 ## 🛠️ Tech Stack
 
 - **Language:** C++
-- **IDE:** Code::Blocks / Dev C++ / Visual Studio / VS Code
+- **IDE:** VS Code
 - **Storage:** Text/CSV Files (via file I/O)
