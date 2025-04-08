@@ -18,5 +18,5 @@ This project is great for demonstrating basic knowledge of Object-Oriented Progr
 ## 🛠️ Tech Stack
 
 - **Language:** C++
-- **IDE:** Code::Blocks / Dev C++ / Visual Studio / VS Code
+- **IDE:** VS Code
 - **Storage:** Text/CSV Files (via file I/O)
